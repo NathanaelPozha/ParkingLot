@@ -12,12 +12,10 @@ public class Bike extends Vehicles{
         this.color = color;
     }
 
-    @Override
     public String getRegistrationNumber(){
         return registrationNumber;
     }
 
-    @Override
     public String getColor(){
         return color;
     }
